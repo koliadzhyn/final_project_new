@@ -124,3 +124,8 @@
 a {
   text-decoration: none;
 }
+
+a#githubref {
+  text-align: center;
+  color: #26579c;
+}
