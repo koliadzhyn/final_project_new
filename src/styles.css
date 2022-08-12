@@ -126,6 +126,8 @@ a {
 }
 
 a#githubref {
+  display: block;
+  margin: 0 auto;
   text-align: center;
   color: #26579c;
 }
